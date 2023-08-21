@@ -54,7 +54,7 @@ Composing branches should be categorized by their purpose, so it will be easier 
 
 ## Commits
 
-Commitizen assumes your team uses a standard way of committing rules and from that foundation, it can bump your project's version, create the changelog, and update files.
+[Commitizen](https://commitizen-tools.github.io/commitizen/) assumes your team uses a standard way of committing rules and from that foundation, it can bump your project's version, create the changelog, and update files.
 
 We use Committizen to format our git commits, this is to standardize our commit messages to make them more human-readable and easy to comprehend during code reviews.
 
